@@ -1,0 +1,16 @@
+{
+  "name": "flashdeal-mg-v6",
+  "version": "1.0.0",
+  "description": "Boutique en ligne flashdeal Clone pour Node v6",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2"
+  },
+  "engines": {
+    "node": "6.11.1"
+  }
+}
